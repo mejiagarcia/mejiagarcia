@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**mejiagarcia/mejiagarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer specialized in mobile platforms. If you work with me, you will get:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Teaching
+- Project planning
+- 100% commitment
+- Code quality
+- App design ideas
+- App UX ideas
+- Leadership
+- Loyalty
+- Proactivity
+- Great balance between velocity and quality
+- Up to date technologies (such iOS 14 features)
+- Satisfactory results against Figma or Zeplin design
+- App transitions and animations
+- App optimization
+- App CI
+- Experience with distribution systems such TestFlight, App Center, Firebase 
