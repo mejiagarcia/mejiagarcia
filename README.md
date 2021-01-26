@@ -18,3 +18,5 @@ I am a software engineer specialized in mobile platforms. If you work with me, y
 - App optimization
 - App CI
 - Experience with distribution systems such TestFlight, App Center, Firebase 
+
+Let's get in touch, I can develop your idea in a record time. 
