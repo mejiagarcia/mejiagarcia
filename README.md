@@ -1,3 +1,3 @@
+"Carlos you gonna love my Uber for chefs idea, it's a 1B dollar idea"
 
-<img src="https://sayingimages.com/wp-content/uploads/im-not-stalking-meme.jpg"/>
-https://www.linkedin.com/in/mejiagarcia/
+- let's do it.
